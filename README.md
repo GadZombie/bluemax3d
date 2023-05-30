@@ -6,14 +6,14 @@ Created by `Grzegorz Drozd`, long time ago...
 
 # Quick introduction
 
-![Blue Max](readmedata\bluemax_atari.png "Blue Max") 
+![Blue Max](readmedata/bluemax_atari.png "Blue Max") 
 
 Blue Max was an isometric bi-plane shooter for the 8-bit computers like Atari, Commodore 64 or ZX Spectrum. Some people said it was a 3D River Raid but Blue Max was much more than simple shooter. The player could land on runway, fly over river, land, bridges or city. The enemies were in the planes, tanks, boats or cars on the road.
 If you want to know more, just look at this [video from the original game](https://www.youtube.com/watch?v=dNbr7XYsLTU).
 
 # This game
 
-![Blue Max 3D](readmedata\bluemax3d.jpg "Blue Max 3D")
+![Blue Max 3D](readmedata/bluemax3d.jpg "Blue Max 3D")
 
 This is my attempt to create a remake of Blue Max with real 3D graphics. It should give you the feel like the original game but with some improvements.
 
