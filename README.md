@@ -23,7 +23,7 @@ At first take a look at [this video](https://www.youtube.com/watch?v=_lxEZBy9l60
 
 The game is in pretty advanced state but it's unfinished. I left the project many years ago and I don't plan to return to it. The code is very messy. I was learning the use OpenGL but also C++. So I made many mistakes that are difficult to be undone today. Actually the whole code should be written again, because it's a total crap. I have no idea how this game still work with such a bad code.
 
-That's why I give the game to the world. If you want to learn something here, probably you will not find anything interesting. If you want to finish the game, you're very welcome, but I doubt it. If you just want to play the game, it would be better to download the compiled and working game from [my website](https://gadz.pl/opis.php?i=352).
+That's why I give the game to the world. If you want to learn something here, probably you will not find anything interesting. If you want to finish the game, you're very welcome, but I doubt it. If you just want to play the game, it would be better to download the compiled and working game from [my website](https://gadz.pl/blue-max-3d).
 
 # Compilation
 
